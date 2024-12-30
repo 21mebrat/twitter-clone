@@ -125,6 +125,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 For any questions or feedback, please contact:
 - Name: Mebrat Matebie
-- Email: [mebratmatebie@gmail.com]
-- GitHub: [https://github.com/21mebrat](https://github.com/21mebrat)
+- Email: mebratmatebie@gmail.com
+- GitHub: https://github.com/21mebrat
 
